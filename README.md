@@ -1,2 +1,3 @@
-# FinalProject-Block1-GB
-Итоговая Проверочная Работа
+Learning is the path to greatness.
+and it doesn't happen overnight, it takes time and dedication...
+Hello my friend # Welcome to Java
