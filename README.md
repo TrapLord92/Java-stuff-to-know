@@ -1,3 +1,3 @@
 Learning is the path to greatness.
 and it doesn't happen overnight, it takes time and dedication...
-Hello my friend # Welcome to Java
+Hello my friend Welcome to Java
